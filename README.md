@@ -1,4 +1,4 @@
-# portifolioJs
+# portfolioJs
 Este projeto foi criado para criar habilidades HTML/CSS/JavaScript
 
 
