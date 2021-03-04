@@ -67,15 +67,15 @@
     transition: transform 1s;
 }
 .show-menu #line1 {
-    transform: rotate(45deg) translate(.3rem, .42rem);
+    transform: rotate(45deg) translate(0.3rem, 0.40rem);
 }
 .show-menu #line2 {
     opacity: 0;
     visibility: hidden;
 }
 .show-menu #line3 {
-    transform: rotate(-45deg) translate(.3rem, -.42rem); 
-}
+    transform: rotate(-45deg) translate(0.2rem, -0.40rem);
+  }
 
 
 header {
